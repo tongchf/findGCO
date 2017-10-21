@@ -1,0 +1,39 @@
+[folders]
+BWA_FOLD:/home/tong/worka/bwa-0.7.12
+SAMTOOLS_FOLD:/home/tong/worka/phasing/samtools-1.1
+BCFTOOLS_FOLD:/home/tong/worka/phasing/samtools-1.1/bcftools-1.1
+PICARDTOOLS_FOLD:/home/tong/worka/phasing/picard-tools-1.119
+FASTQ_FOLD:  /home/tong/workf/fastqFold
+REFERENCE_FOLD:/home/tong/workf/refseqs   
+
+##This fold is optional
+LINKAGEMAP_FOLD:/home/tong/workf/linkagemaps
+
+[reference sequence file]
+REFSEQFILE:p210v30.fa
+
+[fastq files]
+PARENT1: pdelt_1.fq	pdelt_2.fq
+PARENT2: psimo_1.fq	psimo_2.fq
+PROGENY1: B35-2_1.fq	B35-2_2.fq
+PROGENY2: C25-3_1.fq	C25-3_2.fq
+PROGENY3: C3-2_1.fq	C3-2_2.fq
+PROGENY4: C32-2_1.fq	C32-2_2.fq
+PROGENY5: C5-3_1.fq	C5-3_2.fq
+PROGENY6: 3-12_1.fq	3-12_2.fq
+PROGENY7: 3-14_1.fq	3-14_2.fq
+PROGENY8: 3-15_1.fq	3-15_2.fq
+PROGENY9: 3-16_1.fq	3-16_2.fq
+PROGENY10: 3-18_1.fq	3-18_2.fq
+
+[parameters]
+THREADS: 40
+ALPHA: 0.08
+MQ: 60
+BQ: 20
+GQ: 30
+
+##This part is optional
+[linkage map files]
+PARENT1MAP: DLGsV4.phase
+PARENT2MAP: SLGsV4.phase
