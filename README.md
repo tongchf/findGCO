@@ -5,4 +5,4 @@ After extracting the package file, it is easy to start the process like this, <b
  ```Perl
  perl findGCO.pl
  ```
-Here,the text file `parameters.txt` is formated as following
+Here,the text file [`parameters.txt`](https://github.com/tongchf/findGCO/blob/master/parameters.txt) is formated as following
