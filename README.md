@@ -5,4 +5,4 @@ After extracting the package file, it is easy to start the process like this, <b
  ```Perl
  perl findGCO.pl
  ```
-However, a text file named [`parameters.txt`](https://github.com/tongchf/findGCO/blob/master/parameters.txt) is needed for setting input parameters, in which the software folders and fastq files are included. 
+However, a text file named [`parameters.txt`](https://github.com/tongchf/findGCO/blob/master/parameters.txt) is needed for setting input parameters, in which some software folders and fastq files are included. It is also include parameters like `THREADS`, `ALPHA`, `MQ`, `BQ` and `GQ`.
