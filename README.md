@@ -20,4 +20,4 @@ However, a text file named [parameters.txt](https://github.com/tongchf/findGCO/b
 >Chr02	1387860	b/a  
 >....................................  
 # Results
-When the run is finished, the final results for each parent are summarized in two Excel files, namely 
+When the run is finished, the final results for each parent are summarized in Excel files, namely `parent*GCs.xlsx` as well as  `parent*COs.xlsx` if parental linkage maps are incorported.
