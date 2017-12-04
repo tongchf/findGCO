@@ -3,6 +3,6 @@
 # Usage 
 After extracting the package file, it is easy to start the process like this, <br>
  ```Perl
- perl findGCO.pl  
+ perl findGCO.pl
  ```
 Here,the text file `parameters.txt` is formated as following
