@@ -22,5 +22,6 @@ However, a text file named [parameters.txt](https://github.com/tongchf/findGCO/b
 # Results
 When the run is finished, the final results for each parent are summarized in Excel files, namely `parent*GCs.xlsx` as well as  `parent*COs.xlsx` if parental linkage maps are incorported.
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default">
 $$x^2 + y^2 = 1$$
+</script>
