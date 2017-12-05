@@ -8,7 +8,7 @@ After extracting the package file, it is easy to start the process like this, <b
 However, a text file named [parameters.txt](https://github.com/tongchf/findGCO/blob/master/parameters.txt) is needed for setting input parameters, in which some software folders and fastq files are included. It is also include parameters like `THREADS`(setting the number of threads to be used for computing), `ALPHA`(setting the maximum percentage of edit distance to a single read length in for filtering mapped reads in `SAM` files), `MQ` (mapping quality), `BQ`(base quality) and `GQ`(genotype quality). If the parental linkage maps are available, each can be incorporated in a text file formatted as follows. <br> 
 ```
   LG1  
-  Chr01	 400706	  a/b  
+  Chr01	 400706	   a/b  
   Chr01	 1241060	 b/a  
   Chr01	 1805157	 a/b  
   Chr01	 1881967	 b/a  
