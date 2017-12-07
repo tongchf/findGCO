@@ -14,10 +14,10 @@ However, a text file named [parameters.txt](https://github.com/tongchf/findGCO/b
     Chr01	1881967	  b/a  
     ..................  
     LG2  
-    Chr02	31567	   b/a  
+    Chr02	31567	  b/a  
     Chr02	253351	  b/a  
-    Chr02	1014616	 b/a  
-    Chr02	1387860	 b/a  
+    Chr02	1014616	  b/a  
+    Chr02	1387860	  b/a  
     .................  
 
 # Results
