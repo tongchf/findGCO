@@ -21,7 +21,7 @@ However, a text file named [parameters.txt](https://github.com/tongchf/findGCO/b
     .................  
 
 # Results
-When the run is finished, the final results for each parent are summarized in Excel files, namely `parent*GCs.xlsx` as well as  `parent*COs.xlsx` if the parental linkage maps are available.
+When the run is finished, the final results for each parent are summarized in Excel files, namely `parent1GCs.xlsx` and  `parent2GCs.xlsx`, as well as  `parent1COs.xlsx` and `parent2COs.xlsx`if the parental linkage maps are available.
 ```
 this is a single line 
 ```
