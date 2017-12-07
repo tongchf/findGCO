@@ -49,8 +49,7 @@ When the run is finished, the final results for each parent are summarized in Ex
 
 The Excel Sheets for CO results of each sample are as follows:
 
-|Chromosome |	Start	| End	| Phase	| Length	| "Discription
-(Mi-j:the jth SNP in linkage group i; BkMi-j: the Mi-j SNP is within haplotype block k)"  |
+|Chromosome |	Start	| End	| Phase	| Length	| "Discription (Mi-j:the jth SNP in linkage group i; BkMi-j: the Mi-j SNP is within haplotype block k)"  |
 | :----------: | :-----: | :-----: | :-----: |:--------: | ---------------------------------------------------------------------- |
 |Chr01	|400491	|21213789	|0	| 20813299 | xxxx; xxxx; |
 
