@@ -11,7 +11,7 @@ However, a text file named [parameters.txt](https://github.com/tongchf/findGCO/b
     Chr01	400706	  a/b  
     Chr01	1241060	  b/a  
     Chr01	1805157	  a/b  
-    Chr01	 1881967	 b/a  
+    Chr01	1881967	 b/a  
     ..................  
     LG2  
     Chr02	 31567	   b/a  
