@@ -7,11 +7,12 @@ After extracting the package file, it is easy to start the process like this, <b
  ```
 However, a text file named [parameters.txt](https://github.com/tongchf/findGCO/blob/master/parameters.txt) is needed for setting input parameters, in which some software folders and fastq files are included. It is also include parameters like `THREADS`(setting the number of threads to be used for computing), `ALPHA`(setting the maximum percentage of edit distance to a single read length in for filtering mapped reads in `SAM` files), `MQ` (mapping quality), `BQ`(base quality) and `GQ`(genotype quality). If the parental linkage maps are available, each can be incorporated in a text file formatted as follows. <br> 
 
-```
-  LG1  
-  |Chr01	|400706	   |a/b  |
-  |Chr01	|1241060	  |b/a  |
-  |Chr01	|1805157	  |a/b  |
+ LG1  
+ Chr01	400706	   a/b
+ Chr01	1241060	  b/a
+ Chr01	1805157	  a/b
+ 
+ 
   Chr01	 1881967	 b/a  
   ..................  
   LG2  
@@ -20,18 +21,9 @@ However, a text file named [parameters.txt](https://github.com/tongchf/findGCO/b
   Chr02	 1014616	 b/a  
   Chr02	 1387860	 b/a  
   .................  
-```
+
 # Results
 When the run is finished, the final results for each parent are summarized in Excel files, namely `parent*GCs.xlsx` as well as  `parent*COs.xlsx` if parental linkage maps are incorported.
 ```
 this is a single line 
 ```
-
-<img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
