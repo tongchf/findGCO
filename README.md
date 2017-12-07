@@ -1,4 +1,4 @@
-# findGCO 
+ # findGCO 
 `findGCO` is a Perl package for identifying gene conversion events with the next-generation sequencing (NGS) data from the two parents and their progeny in an F1 hybrid population of oubred species. It uses the usual bioinformatics tools such as [bwa](http://bio-bwa.sourceforge.net), [samtools](http://samtools.sourceforge.net) and [picard-tools](http://broadinstitute.github.io/picard) for filtering and mapping reads, phasing haplotypes of parents and genotyping each individual.
 # Usage 
 After extracting the package file, it is easy to start the process like this, <br>
@@ -46,3 +46,15 @@ When the run is finished, the final results for each parent are summarized in Ex
 |Chr19	|5	|145	|92	|4	|2	|0	|241	|226.85  |
 |Others	|2	|122	|77	|5	|1	|0	|204	|240.44  |
 |**Total**	|164	|2522	|1368	|96	|34	|0	|3986	|229.92  |
+
+The Excel Sheets for CO results of each sample are as follows:
+
+|Chromosome |	Start	| End	| Phase	| Length	| "Discription
+(Mi-j:the jth SNP in linkage group i; BkMi-j: the Mi-j SNP is within haplotype block k)"  |
+| :----------: | :-----: | :-----: | :-----: |:--------: | ---------------------------------------------------------------------- |
+|Chr01	|400491	|21213789	|0	| 20813299 | xxxx; xxxx; |
+
+
+
+
+
