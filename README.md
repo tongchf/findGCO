@@ -28,4 +28,4 @@ When the run is finished, the final results for each parent are summarized in Ex
 |Chr01	|33	|360	|190	|11	|5	|0	|561	|222.3716578  |
 |Chr02	|3	|125	|69	|5	|3	|0	|199	|235.2361809  |
 
-\235.2361809
+235\.2361809
